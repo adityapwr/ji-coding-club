@@ -15,6 +15,15 @@ The club organizes a variety of activities, including workshops, coding competit
 5. Workshops/Bootcamps - 1 
 6. Paper/Journal Reading - 6
 
+## Club Name Selection
+1. Coding Club
+2. Code Squad
+3. Enigma - Abhishek Lomsh
+4. Qubit, Code delta, Codeforces - Shiva
+5. Bright bits, Code bits, Code Bytes - Arpit
+6. Code2Decode - Sagar
+7. Code Warriors, Code Warriors, Code Warriors - Shubham
+
 ## Contact Us
 If you have any questions or suggestions, please feel free to contact us at:
 
