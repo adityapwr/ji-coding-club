@@ -1,0 +1,17 @@
+site_name: Coding Club
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/git-alt 
+  features:
+    - navigation.instant
+    - navigation.tracking
+    # - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+plugins:
+  - search
+repo_url: https://github.com/adityapwr/ji-coding-club
+repo_name: JioInstitute/coding-club
+edit_uri: edit/master/docs/
