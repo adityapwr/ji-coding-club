@@ -1,4 +1,6 @@
-# Welcome to Coding Club at the Jio Institute
+# About
+
+## Welcome to Coding Club at the Jio Institute
 
 This is the official website for Coding Club at the Jio Institute. Here you can find information about the club, its activities, and its members.
 
@@ -22,7 +24,7 @@ The club organizes a variety of activities, including workshops, coding competit
 4. Qubit, Code delta, Codeforces - Shiva
 5. Bright bits, Code bits, Code Bytes - Arpit
 6. Code2Decode - Sagar
-7. Code Warriors, Code Warriors, Code Warriors - Shubham
+7. Code Warriors, Code Warriors, Code Warriors - AI :p
 
 ## Contact Us
 If you have any questions or suggestions, please feel free to contact us at:
